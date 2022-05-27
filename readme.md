@@ -14,21 +14,22 @@
 ### 6-Information sur le siteweb
 
     Theme choisi
-    ASTRA:http://localhost/brief99/
+    ASTRA
 
 >
 >> - Blocksy
 
 
     Extensions
-
->>  - Blocksy Companion
->> - Contact Form 7
+    
+>>  -SEO
+>> - Multilingues
 >> - Elementor
->> - Essential Addons for Elementor
->> - Happy Elementor Addons
->> - Livemesh Addons for Elementor
->> - Premium Addons for Elementor
+>> - RGPD
+>> - G translate
 >> - WooCommerce
 >> - WooCommerce PayPal Payments
 
+![image](https://user-images.githubusercontent.com/93975470/170678247-889ac0d4-f219-4b10-b909-d5e04da2193b.png)
+![image](https://user-images.githubusercontent.com/93975470/170678370-ccabbb8a-4bf3-4fac-81e1-c606ac92abf5.png)
+![image](https://user-images.githubusercontent.com/93975470/170678468-0d9d5818-6438-4c23-8ca9-bfe0c69dc72f.png)
