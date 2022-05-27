@@ -29,7 +29,7 @@
 >> - G translate
 >> - WooCommerce
 >> - WooCommerce PayPal Payments
+![image](https://user-images.githubusercontent.com/93975470/170678617-bae1ae44-af1b-4ebc-9949-5759b69fd596.png)
+![image](https://user-images.githubusercontent.com/93975470/170678767-6b143d3f-df1c-45ce-8005-f5ba322bcd8a.png)
+![image](https://user-images.githubusercontent.com/93975470/170678957-55752583-8d1d-45a0-af39-a4413d6f3a63.png)
 
-![image](https://user-images.githubusercontent.com/93975470/170678247-889ac0d4-f219-4b10-b909-d5e04da2193b.png)
-![image](https://user-images.githubusercontent.com/93975470/170678370-ccabbb8a-4bf3-4fac-81e1-c606ac92abf5.png)
-![image](https://user-images.githubusercontent.com/93975470/170678468-0d9d5818-6438-4c23-8ca9-bfe0c69dc72f.png)
