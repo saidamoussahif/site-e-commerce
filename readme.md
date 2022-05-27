@@ -1,9 +1,9 @@
 # Ecommerce-Wordpress
 # Ecommerce Website
 ## Etapes d'installation Wordpress
-### 1-Installer un serveur web local sur Windows (XAMP)
+### 1-Installer un serveur web local sur Windows (xampp)
 
-    serveur ulilisé WAMP, Windows Apache MySQL PHP [wamp Official Website](https://www.wampserver.com/)
+    serveur ulilisé xampp, Windows Apache MySQL PHP [xampp Official Website]([https://www.wampserver.com/](https://www.apachefriends.org/fr/index.html))
 
 ### 2-Télécharger WordPress
 
